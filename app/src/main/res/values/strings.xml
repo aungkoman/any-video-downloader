@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Any Video Downloader</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_web_view">WebView</string>
+    <string name="title_activity_download_view">Choose Resolution</string>
+
+    <string name="url_hint">Enter Video Site URL</string>
+    <string name="valid_url">please enter valid url</string>
+    <!-- ads code -->
+    <!-- test ads app id : ca-app-pub-3940256099942544~3347511713 -->
+    <string name="ads_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <!-- test banner code ca-app-pub-3940256099942544/6300978111 -->
+    <string name="banner1">ca-app-pub-3940256099942544/6300978111</string>
+    <!-- test  interstitials ca-app-pub-3940256099942544/1033173712 -->
+    <string name="interstitial1">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
